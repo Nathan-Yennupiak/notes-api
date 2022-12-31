@@ -16,6 +16,6 @@ const noteSchema = new monngoose.Schema({
     timestamps: true
 })   
 
-let noteModel = monngoose.model('Note', noteSchema)
+let NoteModel = monngoose.model('Note', noteSchema)
 
-module.exports = noteModel
+module.exports = NoteModel
