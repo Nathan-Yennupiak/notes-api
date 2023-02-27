@@ -2,7 +2,7 @@ API Documentation:
 
 API endpoint: https://notes-api-f6i7.onrender.com/api/v1/notes
 
-This endpoint is a RESTful API that allows users to retrieve and create incident reports.
+This endpoint is a RESTful API that allows users to retrieve and create notes.
 
 METHOD:
 
